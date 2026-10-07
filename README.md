@@ -8,6 +8,10 @@ Try the deployed application:
 
 https://automated-email-classification-c5w2zyk6r3uuxhpfrdhpkl.streamlit.app/
 
+### Application Preview
+
+![Spam Prediction](screenshots/spam_prediction.png)
+
 ## Project Overview
 
 Spam messages are a common problem in email and messaging systems. This project applies Data Science and Natural Language Processing techniques to automatically identify whether a message is Spam or Ham.
