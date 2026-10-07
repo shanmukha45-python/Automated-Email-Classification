@@ -160,5 +160,5 @@ Automated_Email_Classification/
 |
 `-- notebooks/
     |-- 01_EDA.ipynb
-    |-- 02_Preprocessing_Final.ipynb
+    |-- 02_Preprocessing.ipynb
     `-- 03_Model_Building.ipynb
